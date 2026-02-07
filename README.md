@@ -1,3 +1,6 @@
+> [!NOTE]  
+> This project is currently unfinished. More releases will happen in the future.
+
 # Stockfish for Fishstrap
 hey people, this is a custom bootstrapper theme for the 3rd party roblox bootstrapper, Fishstrap
 
