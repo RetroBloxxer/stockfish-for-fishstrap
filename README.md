@@ -3,4 +3,4 @@ hey people, this is a custom bootstrapper theme for the 3rd party roblox bootstr
 
 all themes are designed in canva (i hope you dont think its slop)
 
-detailed description later :d
+versions will start from the latest from the previous stockfish repository created by my former account, JadiPlayz (legacy branch soon)
